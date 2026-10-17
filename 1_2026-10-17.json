@@ -1,0 +1,447 @@
+{
+  "user_id": 1,
+  "reader": "Umair abdullah",
+  "date": "2026-10-17",
+  "date_long": "Saturday, 17 October 2026",
+  "edition_no": 1,
+  "reading_time": 20,
+  "style": "balanced",
+  "interests_line": "Cricket, Football, Health, Education",
+  "lead": {
+    "id": 2,
+    "title": "Pakistan squad announced for England Test series",
+    "url": "https://example.com/sample/2",
+    "source": "Sample Times",
+    "domain": "example.com",
+    "published_label": "7h ago",
+    "summary": "Pakistan have picked a 15-man group for the home Test series. Two newcomers are in the squad while a senior bowler misses out.",
+    "image": null,
+    "topic": "Cricket",
+    "reading_min": 1,
+    "why": "You follow Cricket (interest 94%). Also covered by several outlets today.",
+    "also": [
+      "Sample Wire"
+    ],
+    "explore": false
+  },
+  "secondary": [
+    {
+      "id": 303,
+      "title": "Bumrah, Pant in India squad for New Zealand Test series",
+      "url": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "domain": "cricinfo.com",
+      "published_label": "18h ago",
+      "summary": "Bumrah is not part of the ODI squad, but will return to lead the attack in the two-match Test series",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/403400/403450.jpg",
+      "topic": "Cricket",
+      "reading_min": 1,
+      "why": "You follow Cricket (interest 94%). Also covered by several outlets today.",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 298,
+      "title": "US tech enterpreneur Govil eyes purchase of BBL team",
+      "url": "https://www.cricinfo.com/ci/content/story/1558845.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "domain": "cricinfo.com",
+      "published_label": "7h ago",
+      "summary": "Renegades and Hurricanes are among the teams that interest Govil, who already owns or co-owns teams in MLC and the Hundred",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/411600/411640.jpg",
+      "topic": "Cricket",
+      "reading_min": 1,
+      "why": "You follow Cricket (interest 94%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 276,
+      "title": "Jayawardene steps down as Mumbai Indians head coach",
+      "url": "https://www.cricinfo.com/ci/content/story/1558843.html?ex_cid=OTC-RSS",
+      "source": "ESPNcricinfo",
+      "domain": "cricinfo.com",
+      "published_label": "7h ago",
+      "summary": "\"Mumbai Indians has been a very special part of my journey for over a decade now,\" Jayawardene said",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414717.jpg",
+      "topic": "Cricket",
+      "reading_min": 1,
+      "why": "You follow Cricket (interest 94%).",
+      "also": [],
+      "explore": false
+    }
+  ],
+  "sections": [
+    {
+      "name": "Cricket",
+      "size": "large",
+      "weight": 0.94,
+      "stories": [
+        {
+          "id": 3,
+          "title": "Babar Azam returns to form with a century in domestic final",
+          "url": "https://example.com/sample/3",
+          "source": "Sample Daily",
+          "domain": "example.com",
+          "published_label": "10h ago",
+          "summary": "The batter played a patient innings to lift his side to a comfortable win. Coaches said the knock should ease selection worries.",
+          "image": null,
+          "topic": "Cricket",
+          "reading_min": 1,
+          "why": "You follow Cricket (interest 94%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 92,
+          "title": "Fakhar Zaman eyes one last shot at World Cup glory",
+          "url": "https://www.dawn.com/news/2037629/fakhar-zaman-eyes-one-last-shot-at-world-cup-glory",
+          "source": "Dawn",
+          "domain": "dawn.com",
+          "published_label": "21h ago",
+          "summary": "Fakhar Zaman knows exactly how it feels to win major trophies. He also knows how it feels to wait years for that feeling.",
+          "image": "https://i.dawn.com/large/2026/10/1623022775e5225.webp",
+          "topic": "Cricket",
+          "reading_min": 3,
+          "why": "You follow Cricket (interest 94%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 113,
+          "title": "Medvedev sees off Paul to set up Shanghai semi with comeback king Jodar",
+          "url": "https://www.dawn.com/news/2037636/medvedev-sees-off-paul-to-set-up-shanghai-semi-with-comeback-king-jodar",
+          "source": "Dawn",
+          "domain": "dawn.com",
+          "published_label": "20h ago",
+          "summary": "Former world number one Daniil Medvedev downed Tommy Paul 6-3, 1-6, 6-3 in the Shanghai Masters quarter-finals on Friday, while Spaniard Rafael Jodar toppled Casper Ruud 4-6, 6-4, 6-3 to become the youngest semi-finalist in the tournament’s history.",
+          "image": "https://i.dawn.com/large/2026/10/16232732cbe0c5e.webp",
+          "topic": "Cricket",
+          "reading_min": 3,
+          "why": "You follow Cricket (interest 94%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 112,
+          "title": "Iga Swiatek moves into Wuhan Open semi-finals",
+          "url": "https://www.dawn.com/news/2037632/iga-swiatek-moves-into-wuhan-open-semi-finals",
+          "source": "Dawn",
+          "domain": "dawn.com",
+          "published_label": "21h ago",
+          "summary": "Iga Swiatek kept up her bid for a WTA Finals place with a 6-4, 6-1 victory over Ann Li on Friday that set up an all-Polish semi-final at the Wuhan Open. The six-time Grand Slam champion will face Maja Chwalinska for a place in the final.",
+          "image": "https://i.dawn.com/large/2026/10/1623072376b7189.webp",
+          "topic": "Cricket",
+          "reading_min": 3,
+          "why": "You follow Cricket (interest 94%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 4,
+          "title": "PSL franchises debate new player draft rules",
+          "url": "https://example.com/sample/4",
+          "source": "Sample Wire",
+          "domain": "example.com",
+          "published_label": "22h ago",
+          "summary": "Team owners met to discuss changes to the PSL player draft. A final decision is expected before the next season.",
+          "image": null,
+          "topic": "Cricket",
+          "reading_min": 1,
+          "why": "You follow Cricket (interest 94%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Football",
+      "size": "large",
+      "weight": 0.7,
+      "stories": [
+        {
+          "id": 2341,
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0ph4183?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
+          "domain": "bbc.co.uk",
+          "published_label": "6h ago",
+          "summary": "Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ph41bt.jpg",
+          "topic": "Football",
+          "reading_min": 1,
+          "why": "You follow Football (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 34,
+          "title": "Premier League title race tightens after a late winner",
+          "url": "https://example.com/sample/34",
+          "source": "Sample Times",
+          "domain": "example.com",
+          "published_label": "7h ago",
+          "summary": "A stoppage-time goal cut the gap at the top of the Premier League table. The leaders face a tough away trip next.",
+          "image": null,
+          "topic": "Football",
+          "reading_min": 1,
+          "why": "You follow Football (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 240,
+          "title": "'I had so many medals under the bed' - Green on Chelsea success",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
+          "domain": "bbc.co.uk",
+          "published_label": "7h ago",
+          "summary": "When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c0/live/d2f7da50-c93e-11f1-8c38-abe947e72d6d.jpg",
+          "topic": "Football",
+          "reading_min": 1,
+          "why": "You follow Football (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 239,
+          "title": "Matos on tactics, Klopp's influence, and taking Swans to top of the league",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
+          "domain": "bbc.co.uk",
+          "published_label": "9h ago",
+          "summary": "Swansea boss Vitor Matos spent five years as an elite development coach at Liverpool, but it would be unfair to paint him with a Jurgen Klopp-shaped brush entirely.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f3/live/d47286e0-c953-11f1-8879-9d9deeb686e1.jpg",
+          "topic": "Football",
+          "reading_min": 1,
+          "why": "You follow Football (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 35,
+          "title": "Striker signs new contract with Champions League side",
+          "url": "https://example.com/sample/35",
+          "source": "Sample Wire",
+          "domain": "example.com",
+          "published_label": "16h ago",
+          "summary": "The club announced a new long-term deal for its leading striker. The player said he wants to win more trophies.",
+          "image": null,
+          "topic": "Football",
+          "reading_min": 1,
+          "why": "You follow Football (interest 70%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Health",
+      "size": "medium",
+      "weight": 0.65,
+      "stories": [
+        {
+          "id": 26,
+          "title": "Dengue cases rise as hospitals prepare for peak season",
+          "url": "https://example.com/sample/26",
+          "source": "Sample Daily",
+          "domain": "example.com",
+          "published_label": "8h ago",
+          "summary": "Health officials reported a steady rise in dengue cases. Hospitals are adding beds and urging people to remove standing water.",
+          "image": null,
+          "topic": "Health",
+          "reading_min": 1,
+          "why": "You follow Health (interest 65%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 8,
+          "title": "Researchers warn of rising cyber attacks on hospital networks",
+          "url": "https://example.com/sample/8",
+          "source": "Sample Daily",
+          "domain": "example.com",
+          "published_label": "14h ago",
+          "summary": "A new report says hospital networks are facing more frequent cyber attacks. Experts urge basic fixes such as software updates and backups.",
+          "image": null,
+          "topic": "Health",
+          "reading_min": 1,
+          "why": "You follow Health (interest 65%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 96,
+          "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+          "url": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "domain": "bbc.co.uk",
+          "published_label": "10h ago",
+          "summary": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e95/live/6651a140-c96d-11f1-a6e6-417671ef62cb.jpg",
+          "topic": "Health",
+          "reading_min": 1,
+          "why": "You follow Health (interest 65%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "size": "medium",
+      "weight": 0.65,
+      "stories": [
+        {
+          "id": 10,
+          "title": "Pakistani startup raises seed funding for farm logistics",
+          "url": "https://example.com/sample/10",
+          "source": "Sample Tech",
+          "domain": "example.com",
+          "published_label": "7h ago",
+          "summary": "A young company building cold-chain logistics for farmers has closed a seed funding round. It plans to expand to three new regions.",
+          "image": null,
+          "topic": "Business",
+          "reading_min": 1,
+          "why": "You follow Business (interest 65%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 7,
+          "title": "Chip maker Nvidia shares climb as AI demand stays strong",
+          "url": "https://example.com/sample/7",
+          "source": "Sample Times",
+          "domain": "example.com",
+          "published_label": "8h ago",
+          "summary": "Shares rose after the company said demand for AI chips remains high. Investors are watching supply limits closely.",
+          "image": null,
+          "topic": "Business",
+          "reading_min": 1,
+          "why": "You follow Business (interest 65%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "size": "medium",
+      "weight": 0.65,
+      "stories": [
+        {
+          "id": 78,
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "domain": "bbc.co.uk",
+          "published_label": "8h ago",
+          "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
+          "topic": "Education",
+          "reading_min": 1,
+          "why": "You follow Education (interest 65%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Beyond Your Bubble",
+      "size": "medium",
+      "weight": 0,
+      "explore": true,
+      "stories": [
+        {
+          "id": 20,
+          "title": "Ceasefire talks resume as United Nations urges aid access",
+          "url": "https://example.com/sample/20",
+          "source": "Sample Wire",
+          "domain": "example.com",
+          "published_label": "4h ago",
+          "summary": "Negotiators returned to the table as the United Nations pressed for safe aid routes. Officials described the talks as difficult.",
+          "image": null,
+          "topic": "World News",
+          "reading_min": 1,
+          "why": "Outside your usual topics: World News. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        },
+        {
+          "id": 76,
+          "title": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "domain": "bbc.co.uk",
+          "published_label": "10h ago",
+          "summary": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f584/live/ad66ed10-c9ea-11f1-bb2b-7517a3677781.jpg",
+          "topic": "Science",
+          "reading_min": 1,
+          "why": "Outside your usual topics: Science. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        },
+        {
+          "id": 16,
+          "title": "Bitcoin slips as investors await central bank signals",
+          "url": "https://example.com/sample/16",
+          "source": "Sample Tech",
+          "domain": "example.com",
+          "published_label": "12h ago",
+          "summary": "The crypto market cooled as traders waited for policy clues. Trading volumes were lower than last week.",
+          "image": null,
+          "topic": "Finance & Markets",
+          "reading_min": 1,
+          "why": "Outside your usual topics: Finance & Markets. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        },
+        {
+          "id": 342,
+          "title": "Cloudy with a chance of moths: bogong swarms are bamboozling weather radars across NSW",
+          "url": "https://www.theguardian.com/environment/2026/oct/17/bogong-moth-swarms-rain-weather-radars",
+          "source": "The Guardian",
+          "domain": "theguardian.com",
+          "published_label": "16h ago",
+          "summary": "Radar systems designed for rain, hail and snow are picking up bogong moths migrating to the Australian Alps Get our breaking news email , free app or daily news podcast It was during Sydney’s Olympic Games in 2000, people say, that a swarm of bogong moths…",
+          "image": "https://i.guim.co.uk/img/media/7f89a74d5ba940d3e4865913e7d390d529818297/318_0_3171_2538/master/3171.jpg?width=140&quality=85&auto=format&fit=max&s=4ed36bd48c727b188349532e135149fc",
+          "topic": "Climate",
+          "reading_min": 2,
+          "why": "Outside your usual topics: Climate. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        }
+      ]
+    }
+  ],
+  "briefs": [],
+  "three_things": [
+    {
+      "id": 2,
+      "headline": "Pakistan squad announced for England Test series",
+      "takeaway": "Pakistan have picked a 15-man group for the home Test series."
+    },
+    {
+      "id": 2341,
+      "headline": "Football Daily",
+      "takeaway": "Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview."
+    },
+    {
+      "id": 10,
+      "headline": "Pakistani startup raises seed funding for farm logistics",
+      "takeaway": "A young company building cold-chain logistics for farmers has closed a seed funding round."
+    }
+  ],
+  "editor_note": "Good morning. We led with Cricket because it scored highest against how you actually read, not just the topics you picked on day one.",
+  "learning_note": [
+    "Raised Cricket because you opened 2 Cricket stories."
+  ],
+  "stats": {
+    "stories": 24,
+    "sources": 9,
+    "est_minutes": 31
+  },
+  "generated_at": "2026-10-17T10:16:48"
+}

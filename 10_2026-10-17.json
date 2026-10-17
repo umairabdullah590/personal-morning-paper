@@ -1,0 +1,212 @@
+{
+  "user_id": 10,
+  "reader": "Umair",
+  "date": "2026-10-17",
+  "date_long": "Saturday, 17 October 2026",
+  "edition_no": 1,
+  "reading_time": 10,
+  "style": "in-depth",
+  "interests_line": "Education, Culture & Film, Business, Football",
+  "lead": {
+    "id": 265,
+    "title": "Anthropic proposes law regulating AI to US lawmakers",
+    "url": "https://www.dawn.com/news/2037803/anthropic-proposes-law-regulating-ai-to-us-lawmakers",
+    "source": "Dawn",
+    "domain": "dawn.com",
+    "published_label": "9h ago",
+    "summary": "Anthropic, the creator of the AI assistant Claude, confirmed on Friday it is circulating a draft bill among US lawmakers aimed at regulating artificial intelligence to address the lack of federal legislation on the risks posed by the new technology.",
+    "image": "https://i.dawn.com/large/2026/10/171200103513e8c.webp",
+    "topic": "Business",
+    "reading_min": 3,
+    "why": "You follow Business (interest 70%).",
+    "also": [],
+    "explore": false
+  },
+  "secondary": [
+    {
+      "id": 7,
+      "title": "Chip maker Nvidia shares climb as AI demand stays strong",
+      "url": "https://example.com/sample/7",
+      "source": "Sample Times",
+      "domain": "example.com",
+      "published_label": "9h ago",
+      "summary": "Shares rose after the company said demand for AI chips remains high. Investors are watching supply limits closely.",
+      "image": null,
+      "topic": "Business",
+      "reading_min": 1,
+      "why": "You follow Business (interest 70%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 397,
+      "title": "Defining and Generating Compositional Structure",
+      "url": "https://arxiv.org/abs/2610.20922",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "published_label": "12h ago",
+      "summary": "arXiv:2610.20922v1 Announce Type: new Abstract: Compositional structure is pervasive in nature and across scales: atoms combine into molecules, molecules into cells, and cells into organisms, while further compositional hierarchies appear within each level.",
+      "image": null,
+      "topic": "Culture & Film",
+      "reading_min": 3,
+      "why": "You follow Culture & Film (interest 70%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 2341,
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ph4183?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "domain": "bbc.co.uk",
+      "published_label": "7h ago",
+      "summary": "Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview.",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ph41bt.jpg",
+      "topic": "Football",
+      "reading_min": 1,
+      "why": "You follow Football (interest 70%).",
+      "also": [],
+      "explore": false
+    }
+  ],
+  "sections": [
+    {
+      "name": "Business",
+      "size": "large",
+      "weight": 0.7,
+      "stories": [
+        {
+          "id": 13,
+          "title": "State Bank holds interest rate steady as inflation eases",
+          "url": "https://example.com/sample/13",
+          "source": "Sample Times",
+          "domain": "example.com",
+          "published_label": "7h ago",
+          "summary": "The central bank kept its policy interest rate unchanged. Officials said inflation is cooling but risks remain.",
+          "image": null,
+          "topic": "Business",
+          "reading_min": 1,
+          "why": "You follow Business (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 224,
+          "title": "Pakistan showcases 20 tech firms at TechCrunch Disrupt 2026",
+          "url": "https://www.dawn.com/news/2037788/pakistan-showcases-20-tech-firms-at-techcrunch-disrupt-2026",
+          "source": "Dawn",
+          "domain": "dawn.com",
+          "published_label": "14h ago",
+          "summary": "https://www.dawn.com/news/2037726",
+          "image": "https://i.dawn.com/large/2026/10/171246492ff781a.webp",
+          "topic": "Business",
+          "reading_min": 1,
+          "why": "You follow Business (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 10,
+          "title": "Pakistani startup raises seed funding for farm logistics",
+          "url": "https://example.com/sample/10",
+          "source": "Sample Tech",
+          "domain": "example.com",
+          "published_label": "8h ago",
+          "summary": "A young company building cold-chain logistics for farmers has closed a seed funding round. It plans to expand to three new regions.",
+          "image": null,
+          "topic": "Business",
+          "reading_min": 1,
+          "why": "You follow Business (interest 70%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Football",
+      "size": "large",
+      "weight": 0.7,
+      "stories": [
+        {
+          "id": 34,
+          "title": "Premier League title race tightens after a late winner",
+          "url": "https://example.com/sample/34",
+          "source": "Sample Times",
+          "domain": "example.com",
+          "published_label": "8h ago",
+          "summary": "A stoppage-time goal cut the gap at the top of the Premier League table. The leaders face a tough away trip next.",
+          "image": null,
+          "topic": "Football",
+          "reading_min": 1,
+          "why": "You follow Football (interest 70%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Beyond Your Bubble",
+      "size": "medium",
+      "weight": 0,
+      "explore": true,
+      "stories": [
+        {
+          "id": 4364,
+          "title": "Pope to return to Vatican after cancer surgery",
+          "url": "https://www.dawn.com/news/2037823/pope-to-return-to-vatican-after-cancer-surgery",
+          "source": "Dawn",
+          "domain": "dawn.com",
+          "published_label": "5h ago",
+          "summary": "Pope Leo XIV will leave the Rome hospital where he has been recovering from lung cancer surgery , the Vatican said on Saturday, after doctors deemed him “fit for discharge”.",
+          "image": "https://i.dawn.com/large/2026/10/171603445d37b6d.webp",
+          "topic": "Health",
+          "reading_min": 3,
+          "why": "Outside your usual topics: Health. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        },
+        {
+          "id": 20,
+          "title": "Ceasefire talks resume as United Nations urges aid access",
+          "url": "https://example.com/sample/20",
+          "source": "Sample Wire",
+          "domain": "example.com",
+          "published_label": "5h ago",
+          "summary": "Negotiators returned to the table as the United Nations pressed for safe aid routes. Officials described the talks as difficult.",
+          "image": null,
+          "topic": "World News",
+          "reading_min": 1,
+          "why": "Outside your usual topics: World News. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        }
+      ]
+    }
+  ],
+  "briefs": [],
+  "three_things": [
+    {
+      "id": 265,
+      "headline": "Anthropic proposes law regulating AI to US lawmakers",
+      "takeaway": "Anthropic, the creator of the AI assistant Claude, confirmed on Friday it is circulating a draft bill among US lawmakers aimed at regulating artificial intelligence to address the lack of federal legislation on the risks posed by the new technology."
+    },
+    {
+      "id": 397,
+      "headline": "Defining and Generating Compositional Structure",
+      "takeaway": "arXiv:2610.20922v1 Announce Type: new Abstract: Compositional structure is pervasive in nature and across scales: atoms combine into molecules, molecules into cells, and cells into organisms, while further compositional hierarchies appear within each level."
+    },
+    {
+      "id": 2341,
+      "headline": "Football Daily",
+      "takeaway": "Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview."
+    }
+  ],
+  "editor_note": "Good morning. We led with Business because it scored highest against how you actually read, not just the topics you picked on day one.",
+  "learning_note": [],
+  "stats": {
+    "stories": 10,
+    "sources": 6,
+    "est_minutes": 16
+  },
+  "generated_at": "2026-10-17T11:48:57"
+}

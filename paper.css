@@ -1,0 +1,81 @@
+@page {
+  size: A4;
+  margin: 13mm 12mm 16mm 12mm;
+  @bottom-center {
+    content: "The Morning Paper  \00B7  page " counter(page) " of " counter(pages);
+    font: 7.5pt Georgia, "DejaVu Serif", serif;
+    color: #555;
+  }
+}
+html { background: #fbf8f1; }
+body {
+  font-family: Georgia, "Times New Roman", "DejaVu Serif", serif;
+  font-size: 9pt; line-height: 1.38; color: #151515;
+}
+a { color: inherit; text-decoration: none; }
+p { margin: 0 0 1.6mm; }
+
+/* ---------- masthead ---------- */
+.masthead { text-align: center; border-top: 3pt double #151515; border-bottom: 3pt double #151515;
+            padding: 2mm 0 2mm; margin-bottom: 3mm; }
+.mast-top { width: 100%; border-bottom: .5pt solid #151515; margin-bottom: 1.5mm;
+            font-size: 7.5pt; text-transform: uppercase; letter-spacing: 1pt; }
+.mast-top td { padding-bottom: 1.2mm; }
+.mast-top .l { text-align: left; width: 33%; }
+.mast-top .c { text-align: center; }
+.mast-top .r { text-align: right; width: 33%; }
+.masthead h1 { font-family: "Playfair Display", "Times New Roman", "DejaVu Serif", serif;
+               font-size: 46pt; line-height: 1; margin: 1mm 0 1.5mm; letter-spacing: .5pt; }
+.mast-sub { font-size: 7.5pt; text-transform: uppercase; letter-spacing: .8pt;
+            border-top: .5pt solid #151515; padding-top: 1.5mm; }
+.editor-note { font-size: 8.5pt; font-style: italic; margin: 2mm 0 0; text-transform: none;
+               letter-spacing: 0; }
+
+/* ---------- front page ---------- */
+.front { overflow: hidden; padding-bottom: 3mm; }
+.lead { float: left; width: 64%; padding-right: 4mm; }
+.inside { float: right; width: 31%; border-left: .6pt solid #151515; padding-left: 4mm; }
+.kicker { font-size: 7pt; font-weight: bold; text-transform: uppercase; letter-spacing: 1pt; color: #8b1a1a; }
+.lead h2 { font-size: 27pt; line-height: 1.05; margin: 1mm 0 1.5mm; }
+.meta { font-size: 7.5pt; color: #555; margin-bottom: 2mm; font-style: italic; }
+.lead-img { width: 100%; max-height: 60mm; object-fit: cover; margin-bottom: 2mm; }
+.lead-text { font-size: 10.5pt; text-align: justify; hyphens: auto; }
+.why { font-size: 7.5pt; font-style: italic; color: #444; }
+.link { font-size: 7pt; color: #444; }
+.link a { text-decoration: underline; }
+
+.inside h3 { font-size: 8.5pt; text-transform: uppercase; letter-spacing: 1pt; margin: 0 0 1.5mm;
+             border-bottom: .5pt solid #151515; padding-bottom: 1mm; }
+.three { background: #f1ece0; padding: 2.5mm; margin-bottom: 4mm; border: .6pt solid #151515; }
+.three ol { margin: 0; padding-left: 4.5mm; }
+.three li { margin-bottom: 2mm; font-size: 8.3pt; }
+.index ul { list-style: none; margin: 0; padding: 0; }
+.index li { font-size: 8.5pt; border-bottom: .3pt dotted #777; padding: .6mm 0; }
+.index li span { float: right; color: #555; }
+
+/* ---------- secondary row ---------- */
+.secondary { column-count: 3; column-gap: 5mm; column-rule: .5pt solid #151515;
+             border-top: 1pt solid #151515; border-bottom: .5pt solid #151515; padding: 3mm 0; margin-bottom: 3mm; }
+.secondary h4 { font-size: 13pt; }
+
+/* ---------- sections ---------- */
+.sec-title { font-size: 10.5pt; text-transform: uppercase; letter-spacing: 1.6pt;
+             border-top: 2pt solid #151515; border-bottom: .5pt solid #151515;
+             padding: 1mm 0; margin: 4mm 0 2.5mm; break-after: avoid; }
+.sec-title small { font-size: 7pt; letter-spacing: .3pt; text-transform: none; font-style: italic; color: #555; }
+.cols { column-gap: 5mm; column-rule: .4pt solid #888; }
+.cols-3 { column-count: 3; }
+.cols-2 { column-count: 2; }
+.story { break-inside: avoid; margin-bottom: 3.5mm; }
+.story h4 { font-size: 11pt; line-height: 1.15; margin: .5mm 0 1.2mm; }
+.size-large .story h4 { font-size: 12pt; }
+.size-small .story h4 { font-size: 10pt; }
+.body { text-align: justify; hyphens: auto; }
+
+/* ---------- briefs & colophon ---------- */
+.briefs ul { column-count: 2; column-gap: 5mm; column-rule: .4pt solid #888; margin: 0; padding: 0; list-style: none; }
+.briefs li { break-inside: avoid; margin-bottom: 1.8mm; font-size: 8.5pt; line-height: 1.25;
+             border-bottom: .3pt dotted #777; padding-bottom: 1.2mm; }
+.briefs li span { color: #666; font-style: italic; font-size: 7.5pt; }
+.colophon { margin-top: 5mm; border-top: 1pt solid #151515; padding-top: 2mm; font-size: 7.5pt; color: #444; }
+.colophon .end { text-align: center; letter-spacing: 1pt; font-size: 8pt; margin: 2mm 0; }

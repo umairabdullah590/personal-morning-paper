@@ -1,0 +1,7 @@
+streamlit
+feedparser
+requests
+jinja2
+weasyprint
+numpy
+anthropic
