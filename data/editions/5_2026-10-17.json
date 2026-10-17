@@ -1,0 +1,316 @@
+{
+  "user_id": 5,
+  "reader": "by daily",
+  "date": "2026-10-17",
+  "date_long": "Saturday, 17 October 2026",
+  "edition_no": 1,
+  "reading_time": 20,
+  "style": "in-depth",
+  "interests_line": "Formula 1, Finance & Markets, Health, Culture & Film",
+  "lead": {
+    "id": 36,
+    "title": "Verstappen takes pole as qualifying sets up Grand Prix",
+    "url": "https://example.com/sample/36",
+    "source": "Sample Daily",
+    "domain": "example.com",
+    "published_label": "6h ago",
+    "summary": "Verstappen set the fastest lap in qualifying to start from pole. Rivals said tyre wear could shake up the race.",
+    "image": null,
+    "topic": "Formula 1",
+    "reading_min": 1,
+    "why": "You follow Formula 1 (interest 70%).",
+    "also": [],
+    "explore": false
+  },
+  "secondary": [
+    {
+      "id": 37,
+      "title": "Ferrari bring major upgrade package to the Grand Prix",
+      "url": "https://example.com/sample/37",
+      "source": "Sample Times",
+      "domain": "example.com",
+      "published_label": "18h ago",
+      "summary": "Ferrari introduced a large aerodynamic upgrade for this weekend. The team hopes it closes the gap to the front.",
+      "image": null,
+      "topic": "Formula 1",
+      "reading_min": 1,
+      "why": "You follow Formula 1 (interest 70%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 241,
+      "title": "Pakistan has enough energy supplies to last through November, planning for winter spike: Aurangzeb",
+      "url": "https://www.dawn.com/news/2037797/pakistan-has-enough-energy-supplies-to-last-through-november-planning-for-winter-spike-aurangzeb",
+      "source": "Dawn",
+      "domain": "dawn.com",
+      "published_label": "6h ago",
+      "summary": "Finance Minister Muhammad Aurangzeb on Saturday told AFP that Pakistan had so far withstood the shock from skyrocketing energy prices due to the US-Israeli war on Iran , but that attacks on infrastructure in Saudi Arabia and other Gulf countries were “worrying” for the country’s longer-term…",
+      "image": "https://i.dawn.com/large/2026/10/17102502325263a.webp",
+      "topic": "Finance & Markets",
+      "reading_min": 3,
+      "why": "You follow Finance & Markets (interest 56%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 7,
+      "title": "Chip maker Nvidia shares climb as AI demand stays strong",
+      "url": "https://example.com/sample/7",
+      "source": "Sample Times",
+      "domain": "example.com",
+      "published_label": "6h ago",
+      "summary": "Shares rose after the company said demand for AI chips remains high. Investors are watching supply limits closely.",
+      "image": null,
+      "topic": "Finance & Markets",
+      "reading_min": 1,
+      "why": "You follow Finance & Markets (interest 56%).",
+      "also": [],
+      "explore": false
+    }
+  ],
+  "sections": [
+    {
+      "name": "Formula 1",
+      "size": "large",
+      "weight": 0.7,
+      "stories": [
+        {
+          "id": 201,
+          "title": "Andrew Benson Q&A: Send us your questions",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
+          "domain": "bbc.co.uk",
+          "published_label": "1d ago",
+          "summary": "Our F1 correspondent Andrew Benson is doing a weekly Q&A this season, so get your questions in now.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
+          "topic": "Formula 1",
+          "reading_min": 1,
+          "why": "You follow Formula 1 (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 199,
+          "title": "The F1 pit stop that helped save lives",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c6ly0q00gj5do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
+          "domain": "bbc.co.uk",
+          "published_label": "2d ago",
+          "summary": "How an F1 pit stop inspired changes to hospital care that have helped save lives ever since.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89b3/live/288628a0-c7cd-11f1-9e10-4dcbd31d4273.jpg",
+          "topic": "Formula 1",
+          "reading_min": 1,
+          "why": "You follow Formula 1 (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 138,
+          "title": "Swiatek avoids seed exodus to breeze into Wuhan last eight",
+          "url": "https://www.dawn.com/news/2037391/swiatek-avoids-seed-exodus-to-breeze-into-wuhan-last-eight",
+          "source": "Dawn",
+          "domain": "dawn.com",
+          "published_label": "1d ago",
+          "summary": "Iga Swiatek hit a new milestone on Thursday as she stormed into a second consecutive Wuhan Open quarter-final with a 6-1, 6-4 win over American lucky loser Ashlyn Krueger.",
+          "image": "https://i.dawn.com/large/2026/10/1521403227c06d1.webp",
+          "topic": "Formula 1",
+          "reading_min": 3,
+          "why": "You follow Formula 1 (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 200,
+          "title": "The Chequered Flag Podcast",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0032vkn?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport",
+          "domain": "bbc.co.uk",
+          "published_label": "1d ago",
+          "summary": "Harry Benjamin speaks to F1 Academy championship leader Alisha Palmowski about her season.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgv8f2.png",
+          "topic": "Formula 1",
+          "reading_min": 1,
+          "why": "You follow Formula 1 (interest 70%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Finance & Markets",
+      "size": "medium",
+      "weight": 0.56,
+      "stories": [
+        {
+          "id": 14,
+          "title": "Rupee gains against the dollar in interbank trading",
+          "url": "https://example.com/sample/14",
+          "source": "Sample Wire",
+          "domain": "example.com",
+          "published_label": "6h ago",
+          "summary": "The rupee edged higher against the dollar in early trading. Dealers pointed to steady inflows and lower import demand.",
+          "image": null,
+          "topic": "Finance & Markets",
+          "reading_min": 1,
+          "why": "You follow Finance & Markets (interest 56%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 378,
+          "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+          "url": "https://arxiv.org/abs/2610.20669",
+          "source": "arXiv cs.AI",
+          "domain": "arxiv.org",
+          "published_label": "9h ago",
+          "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive.",
+          "image": null,
+          "topic": "Finance & Markets",
+          "reading_min": 3,
+          "why": "You follow Finance & Markets (interest 56%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 16,
+          "title": "Bitcoin slips as investors await central bank signals",
+          "url": "https://example.com/sample/16",
+          "source": "Sample Tech",
+          "domain": "example.com",
+          "published_label": "10h ago",
+          "summary": "The crypto market cooled as traders waited for policy clues. Trading volumes were lower than last week.",
+          "image": null,
+          "topic": "Finance & Markets",
+          "reading_min": 1,
+          "why": "You follow Finance & Markets (interest 56%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Beyond Your Bubble",
+      "size": "medium",
+      "weight": 0,
+      "explore": true,
+      "stories": [
+        {
+          "id": 2,
+          "title": "Pakistan squad announced for England Test series",
+          "url": "https://example.com/sample/2",
+          "source": "Sample Times",
+          "domain": "example.com",
+          "published_label": "5h ago",
+          "summary": "Pakistan have picked a 15-man group for the home Test series. Two newcomers are in the squad while a senior bowler misses out.",
+          "image": null,
+          "topic": "Cricket",
+          "reading_min": 1,
+          "why": "Outside your usual topics: Cricket. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        },
+        {
+          "id": 20,
+          "title": "Ceasefire talks resume as United Nations urges aid access",
+          "url": "https://example.com/sample/20",
+          "source": "Sample Wire",
+          "domain": "example.com",
+          "published_label": "2h ago",
+          "summary": "Negotiators returned to the table as the United Nations pressed for safe aid routes. Officials described the talks as difficult.",
+          "image": null,
+          "topic": "World News",
+          "reading_min": 1,
+          "why": "Outside your usual topics: World News. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        },
+        {
+          "id": 5,
+          "title": "New AI model beats rivals on coding benchmarks",
+          "url": "https://example.com/sample/5",
+          "source": "Sample Tech",
+          "domain": "example.com",
+          "published_label": "2h ago",
+          "summary": "A new AI model has topped several public coding tests, according to its developers. Independent researchers say more testing is needed.",
+          "image": null,
+          "topic": "AI & Tech",
+          "reading_min": 1,
+          "why": "Outside your usual topics: AI & Tech. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "id": 89,
+      "title": "Banks expect to be hit with higher taxes in Budget",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_label": "1d ago",
+      "summary": "…",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da2f/live/cb11db60-c939-11f1-a64c-550be9e3c66b.jpg",
+      "topic": "Finance & Markets",
+      "reading_min": 1,
+      "why": "You follow Finance & Markets (interest 56%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 228,
+      "title": "Pakistan to assume IMF, World Bank board chairmanship for first time in over 7 decades",
+      "url": "https://www.dawn.com/news/2037553/pakistan-to-assume-imf-world-bank-board-chairmanship-for-first-time-in-over-7-decades",
+      "source": "Dawn",
+      "domain": "dawn.com",
+      "published_label": "1d ago",
+      "summary": "…",
+      "image": "https://i.dawn.com/large/2026/10/16133656b38ac29.webp",
+      "topic": "Finance & Markets",
+      "reading_min": 3,
+      "why": "You follow Finance & Markets (interest 56%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 130,
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_label": "2d ago",
+      "summary": "…",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/a9237850-c87c-11f1-bc2e-018d645d8d21.jpg",
+      "topic": "Finance & Markets",
+      "reading_min": 1,
+      "why": "You follow Finance & Markets (interest 56%).",
+      "also": [],
+      "explore": false
+    }
+  ],
+  "three_things": [
+    {
+      "id": 36,
+      "headline": "Verstappen takes pole as qualifying sets up Grand Prix",
+      "takeaway": "Verstappen set the fastest lap in qualifying to start from pole."
+    },
+    {
+      "id": 241,
+      "headline": "Pakistan has enough energy supplies to last through November, planning for winter spike: Aurangzeb",
+      "takeaway": "Finance Minister Muhammad Aurangzeb on Saturday told AFP that Pakistan had so far withstood the shock from skyrocketing energy prices due to the US-Israeli war on Iran , but that attacks on infrastructure in Saudi Arabia and other Gulf countries were “worrying” for the country’s longer-term…"
+    }
+  ],
+  "editor_note": "Good morning. We led with Formula 1 because it scored highest against how you actually read, not just the topics you picked on day one.",
+  "learning_note": [
+    "Lowered Culture & Film because you asked for less of 2 and skipped 1 Culture & Film stories.",
+    "Lowered Finance & Markets because you liked 1 and opened 3 and asked for less of 1 Finance & Markets stories."
+  ],
+  "stats": {
+    "stories": 17,
+    "sources": 8,
+    "est_minutes": 20
+  },
+  "generated_at": "2026-10-17T08:39:37"
+}

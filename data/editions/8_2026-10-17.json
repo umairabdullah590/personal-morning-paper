@@ -1,0 +1,282 @@
+{
+  "user_id": 8,
+  "reader": "...",
+  "date": "2026-10-17",
+  "date_long": "Saturday, 17 October 2026",
+  "edition_no": 1,
+  "reading_time": 10,
+  "style": "balanced",
+  "interests_line": "Health, Science, Pakistan Politics, AI & Tech",
+  "lead": {
+    "id": 2,
+    "title": "Pakistan squad announced for England Test series",
+    "url": "https://example.com/sample/2",
+    "source": "Sample Times",
+    "domain": "example.com",
+    "published_label": "7h ago",
+    "summary": "Pakistan have picked a 15-man group for the home Test series. Two newcomers are in the squad while a senior bowler misses out.",
+    "image": null,
+    "topic": "Pakistan Politics",
+    "reading_min": 1,
+    "why": "You follow Pakistan Politics (interest 70%). Also covered by several outlets today.",
+    "also": [
+      "Sample Wire"
+    ],
+    "explore": false
+  },
+  "secondary": [
+    {
+      "id": 264,
+      "title": "Trump waives new Russia sanctions as Ukraine ties slump",
+      "url": "https://www.dawn.com/news/2037795/trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
+      "source": "Dawn",
+      "domain": "dawn.com",
+      "published_label": "10h ago",
+      "summary": "President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia’s energy revenues, marking a new low in Washington’s ties with war-torn Ukraine.",
+      "image": "https://i.dawn.com/large/2026/10/17100011a1bd1b7.webp",
+      "topic": "Pakistan Politics",
+      "reading_min": 3,
+      "why": "You follow Pakistan Politics (interest 70%). Also covered by several outlets today.",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 5,
+      "title": "New AI model beats rivals on coding benchmarks",
+      "url": "https://example.com/sample/5",
+      "source": "Sample Tech",
+      "domain": "example.com",
+      "published_label": "4h ago",
+      "summary": "A new AI model has topped several public coding tests, according to its developers. Independent researchers say more testing is needed.",
+      "image": null,
+      "topic": "Science",
+      "reading_min": 1,
+      "why": "You follow Science (interest 70%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 780,
+      "title": "North Korea says tested AI-assisted torpedo system",
+      "url": "https://www.dawn.com/news/2037810/north-korea-says-tested-ai-assisted-torpedo-system",
+      "source": "Dawn",
+      "domain": "dawn.com",
+      "published_label": "7h ago",
+      "summary": "North Korea has tested a “new-type” precision-guided torpedo system that uses artificial intelligence for target detection and guidance, state media reported Saturday, as the nuclear-armed country steps up weapons testing.",
+      "image": "https://i.dawn.com/large/2026/10/17131929a00ab6a.webp",
+      "topic": "Pakistan Politics",
+      "reading_min": 3,
+      "why": "You follow Pakistan Politics (interest 70%).",
+      "also": [],
+      "explore": false
+    }
+  ],
+  "sections": [
+    {
+      "name": "Science",
+      "size": "large",
+      "weight": 0.7,
+      "stories": [
+        {
+          "id": 84,
+          "title": "Any miscalculation by adversaries will invite response beyond their ‘imagination, calculation’, warns CNSC",
+          "url": "https://www.dawn.com/news/2037799/any-miscalculation-by-adversaries-will-invite-response-beyond-their-imagination-calculation-warns-cnsc",
+          "source": "Dawn",
+          "domain": "dawn.com",
+          "published_label": "8h ago",
+          "summary": "Commander National Strategic Command (CNSC) General Aamer Raza warned the country’s adversaries on Saturday that “any miscalculation will be met with a response far beyond the imagination or the calculation of the initiator”.",
+          "image": "https://i.dawn.com/large/2026/10/1710482443c9191.webp",
+          "topic": "Science",
+          "reading_min": 3,
+          "why": "You follow Science (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 8,
+          "title": "Researchers warn of rising cyber attacks on hospital networks",
+          "url": "https://example.com/sample/8",
+          "source": "Sample Daily",
+          "domain": "example.com",
+          "published_label": "14h ago",
+          "summary": "A new report says hospital networks are facing more frequent cyber attacks. Experts urge basic fixes such as software updates and backups.",
+          "image": null,
+          "topic": "Science",
+          "reading_min": 1,
+          "why": "You follow Science (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 380,
+          "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+          "url": "https://arxiv.org/abs/2610.20676",
+          "source": "arXiv cs.AI",
+          "domain": "arxiv.org",
+          "published_label": "11h ago",
+          "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior.",
+          "image": null,
+          "topic": "Science",
+          "reading_min": 3,
+          "why": "You follow Science (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 395,
+          "title": "Anticipatory Commonsense with Moving Objects: An ASP-Based Framework for Predictive Reasoning with Interacting Trajectories",
+          "url": "https://arxiv.org/abs/2610.20867",
+          "source": "arXiv cs.AI",
+          "domain": "arxiv.org",
+          "published_label": "11h ago",
+          "summary": "arXiv:2610.20867v1 Announce Type: new Abstract: We present a general declarative framework for anticipatory reasoning about interactive motion in complex dynamic environments.",
+          "image": null,
+          "topic": "Science",
+          "reading_min": 3,
+          "why": "You follow Science (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 27,
+          "title": "Researchers link regular sleep to better memory in adults",
+          "url": "https://example.com/sample/27",
+          "source": "Sample Tech",
+          "domain": "example.com",
+          "published_label": "11h ago",
+          "summary": "A study of several thousand adults found that steady sleep patterns were tied to better recall. The authors say more work is needed to show cause.",
+          "image": null,
+          "topic": "Science",
+          "reading_min": 1,
+          "why": "You follow Science (interest 70%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Pakistan Politics",
+      "size": "large",
+      "weight": 0.7,
+      "stories": [
+        {
+          "id": 17,
+          "title": "National Assembly debates new budget proposals",
+          "url": "https://example.com/sample/17",
+          "source": "Sample Times",
+          "domain": "example.com",
+          "published_label": "7h ago",
+          "summary": "Lawmakers began debating the proposed budget, with the opposition raising concerns about taxes. A vote is expected later this week.",
+          "image": null,
+          "topic": "Pakistan Politics",
+          "reading_min": 1,
+          "why": "You follow Pakistan Politics (interest 70%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Health",
+      "size": "large",
+      "weight": 0.7,
+      "stories": [
+        {
+          "id": 26,
+          "title": "Dengue cases rise as hospitals prepare for peak season",
+          "url": "https://example.com/sample/26",
+          "source": "Sample Daily",
+          "domain": "example.com",
+          "published_label": "8h ago",
+          "summary": "Health officials reported a steady rise in dengue cases. Hospitals are adding beds and urging people to remove standing water.",
+          "image": null,
+          "topic": "Health",
+          "reading_min": 1,
+          "why": "You follow Health (interest 70%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Beyond Your Bubble",
+      "size": "medium",
+      "weight": 0,
+      "explore": true,
+      "stories": [
+        {
+          "id": 20,
+          "title": "Ceasefire talks resume as United Nations urges aid access",
+          "url": "https://example.com/sample/20",
+          "source": "Sample Wire",
+          "domain": "example.com",
+          "published_label": "4h ago",
+          "summary": "Negotiators returned to the table as the United Nations pressed for safe aid routes. Officials described the talks as difficult.",
+          "image": null,
+          "topic": "World News",
+          "reading_min": 1,
+          "why": "Outside your usual topics: World News. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        },
+        {
+          "id": 303,
+          "title": "Bumrah, Pant in India squad for New Zealand Test series",
+          "url": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "domain": "cricinfo.com",
+          "published_label": "18h ago",
+          "summary": "Bumrah is not part of the ODI squad, but will return to lead the attack in the two-match Test series",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/403400/403450.jpg",
+          "topic": "Cricket",
+          "reading_min": 1,
+          "why": "Outside your usual topics: Cricket. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "id": 77,
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_label": "12h ago",
+      "summary": "…",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+      "topic": "Science",
+      "reading_min": 1,
+      "why": "You follow Science (interest 70%).",
+      "also": [],
+      "explore": false
+    }
+  ],
+  "three_things": [
+    {
+      "id": 2,
+      "headline": "Pakistan squad announced for England Test series",
+      "takeaway": "Pakistan have picked a 15-man group for the home Test series."
+    },
+    {
+      "id": 5,
+      "headline": "New AI model beats rivals on coding benchmarks",
+      "takeaway": "A new AI model has topped several public coding tests, according to its developers."
+    },
+    {
+      "id": 26,
+      "headline": "Dengue cases rise as hospitals prepare for peak season",
+      "takeaway": "Health officials reported a steady rise in dengue cases."
+    }
+  ],
+  "editor_note": "Good morning. We led with Pakistan Politics because it scored highest against how you actually read, not just the topics you picked on day one.",
+  "learning_note": [],
+  "stats": {
+    "stories": 14,
+    "sources": 8,
+    "est_minutes": 23
+  },
+  "generated_at": "2026-10-17T10:32:37"
+}

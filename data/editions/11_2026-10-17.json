@@ -1,0 +1,265 @@
+{
+  "user_id": 11,
+  "reader": "..",
+  "date": "2026-10-17",
+  "date_long": "Saturday, 17 October 2026",
+  "edition_no": 1,
+  "reading_time": 10,
+  "style": "balanced",
+  "interests_line": "Business, Pakistan Politics, Startups, Football",
+  "lead": {
+    "id": 2,
+    "title": "Pakistan squad announced for England Test series",
+    "url": "https://example.com/sample/2",
+    "source": "Sample Times",
+    "domain": "example.com",
+    "published_label": "9h ago",
+    "summary": "Pakistan have picked a 15-man group for the home Test series. Two newcomers are in the squad while a senior bowler misses out.",
+    "image": null,
+    "topic": "Pakistan Politics",
+    "reading_min": 1,
+    "why": "You follow Pakistan Politics (interest 50%). Also covered by several outlets today.",
+    "also": [
+      "Sample Wire"
+    ],
+    "explore": false
+  },
+  "secondary": [
+    {
+      "id": 265,
+      "title": "Anthropic proposes law regulating AI to US lawmakers",
+      "url": "https://www.dawn.com/news/2037803/anthropic-proposes-law-regulating-ai-to-us-lawmakers",
+      "source": "Dawn",
+      "domain": "dawn.com",
+      "published_label": "9h ago",
+      "summary": "Anthropic, the creator of the AI assistant Claude, confirmed on Friday it is circulating a draft bill among US lawmakers aimed at regulating artificial intelligence to address the lack of federal legislation on the risks posed by the new technology.",
+      "image": "https://i.dawn.com/large/2026/10/171200103513e8c.webp",
+      "topic": "Business",
+      "reading_min": 3,
+      "why": "You follow Business (interest 70%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 224,
+      "title": "Pakistan showcases 20 tech firms at TechCrunch Disrupt 2026",
+      "url": "https://www.dawn.com/news/2037788/pakistan-showcases-20-tech-firms-at-techcrunch-disrupt-2026",
+      "source": "Dawn",
+      "domain": "dawn.com",
+      "published_label": "14h ago",
+      "summary": "https://www.dawn.com/news/2037726",
+      "image": "https://i.dawn.com/large/2026/10/171246492ff781a.webp",
+      "topic": "Business",
+      "reading_min": 1,
+      "why": "You follow Business (interest 70%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 10,
+      "title": "Pakistani startup raises seed funding for farm logistics",
+      "url": "https://example.com/sample/10",
+      "source": "Sample Tech",
+      "domain": "example.com",
+      "published_label": "9h ago",
+      "summary": "A young company building cold-chain logistics for farmers has closed a seed funding round. It plans to expand to three new regions.",
+      "image": null,
+      "topic": "Business",
+      "reading_min": 1,
+      "why": "You follow Business (interest 70%).",
+      "also": [],
+      "explore": false
+    }
+  ],
+  "sections": [
+    {
+      "name": "Business",
+      "size": "large",
+      "weight": 0.7,
+      "stories": [
+        {
+          "id": 7,
+          "title": "Chip maker Nvidia shares climb as AI demand stays strong",
+          "url": "https://example.com/sample/7",
+          "source": "Sample Times",
+          "domain": "example.com",
+          "published_label": "10h ago",
+          "summary": "Shares rose after the company said demand for AI chips remains high. Investors are watching supply limits closely.",
+          "image": null,
+          "topic": "Business",
+          "reading_min": 1,
+          "why": "You follow Business (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 225,
+          "title": "Roadmap set to boost trade with Malaysia",
+          "url": "https://www.dawn.com/news/2037723/roadmap-set-to-boost-trade-with-malaysia",
+          "source": "Dawn",
+          "domain": "dawn.com",
+          "published_label": "16h ago",
+          "summary": "ISLAMABAD: Pakistan and Malaysia on Friday agreed on a roadmap to deepen trade and investment relations, identifying key areas of cooperation at a business conference.",
+          "image": "https://i.dawn.com/large/2026/10/170743141d2efbb.webp",
+          "topic": "Business",
+          "reading_min": 3,
+          "why": "You follow Business (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 13,
+          "title": "State Bank holds interest rate steady as inflation eases",
+          "url": "https://example.com/sample/13",
+          "source": "Sample Times",
+          "domain": "example.com",
+          "published_label": "8h ago",
+          "summary": "The central bank kept its policy interest rate unchanged. Officials said inflation is cooling but risks remain.",
+          "image": null,
+          "topic": "Business",
+          "reading_min": 1,
+          "why": "You follow Business (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 22,
+          "title": "Leaders gather for summit on sanctions and trade",
+          "url": "https://example.com/sample/22",
+          "source": "Sample Daily",
+          "domain": "example.com",
+          "published_label": "11h ago",
+          "summary": "Heads of government met to discuss sanctions policy and trade rules. A joint statement is expected on the final day.",
+          "image": null,
+          "topic": "Business",
+          "reading_min": 1,
+          "why": "You follow Business (interest 70%).",
+          "also": [],
+          "explore": false
+        },
+        {
+          "id": 344,
+          "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+          "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+          "source": "TechCrunch",
+          "domain": "techcrunch.com",
+          "published_label": "1d ago",
+          "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+          "image": null,
+          "topic": "Business",
+          "reading_min": 1,
+          "why": "You follow Business (interest 70%).",
+          "also": [],
+          "explore": false
+        }
+      ]
+    },
+    {
+      "name": "Beyond Your Bubble",
+      "size": "medium",
+      "weight": 0,
+      "explore": true,
+      "stories": [
+        {
+          "id": 20,
+          "title": "Ceasefire talks resume as United Nations urges aid access",
+          "url": "https://example.com/sample/20",
+          "source": "Sample Wire",
+          "domain": "example.com",
+          "published_label": "6h ago",
+          "summary": "Negotiators returned to the table as the United Nations pressed for safe aid routes. Officials described the talks as difficult.",
+          "image": null,
+          "topic": "World News",
+          "reading_min": 1,
+          "why": "Outside your usual topics: World News. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        },
+        {
+          "id": 82,
+          "title": "Pope pictured for first time since surgery and cancer diagnosis",
+          "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "domain": "bbc.co.uk",
+          "published_label": "17h ago",
+          "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg",
+          "topic": "Health",
+          "reading_min": 1,
+          "why": "Outside your usual topics: Health. Included so your paper doesn't become an echo chamber.",
+          "also": [],
+          "explore": true
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "id": 370,
+      "title": "Why Apple is finally making its own smart home devices",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_label": "22h ago",
+      "summary": "…",
+      "image": null,
+      "topic": "Business",
+      "reading_min": 2,
+      "why": "You follow Business (interest 70%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 321,
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "source": "TechCrunch",
+      "domain": "techcrunch.com",
+      "published_label": "1d ago",
+      "summary": "…",
+      "image": null,
+      "topic": "Business",
+      "reading_min": 1,
+      "why": "You follow Business (interest 70%).",
+      "also": [],
+      "explore": false
+    },
+    {
+      "id": 12,
+      "title": "Founder of delivery startup steps down after funding round",
+      "url": "https://example.com/sample/12",
+      "source": "Sample Daily",
+      "domain": "example.com",
+      "published_label": "1d ago",
+      "summary": "…",
+      "image": null,
+      "topic": "Business",
+      "reading_min": 1,
+      "why": "You follow Business (interest 70%).",
+      "also": [],
+      "explore": false
+    }
+  ],
+  "three_things": [
+    {
+      "id": 2,
+      "headline": "Pakistan squad announced for England Test series",
+      "takeaway": "Pakistan have picked a 15-man group for the home Test series."
+    },
+    {
+      "id": 265,
+      "headline": "Anthropic proposes law regulating AI to US lawmakers",
+      "takeaway": "Anthropic, the creator of the AI assistant Claude, confirmed on Friday it is circulating a draft bill among US lawmakers aimed at regulating artificial intelligence to address the lack of federal legislation on the risks posed by the new technology."
+    }
+  ],
+  "editor_note": "Good morning. We led with Pakistan Politics because it scored highest against how you actually read, not just the topics you picked on day one.",
+  "learning_note": [
+    "Lowered Football because you liked 1 and skipped 3 Football stories."
+  ],
+  "stats": {
+    "stories": 14,
+    "sources": 8,
+    "est_minutes": 15
+  },
+  "generated_at": "2026-10-17T11:51:20"
+}
